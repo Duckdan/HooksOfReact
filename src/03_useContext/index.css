@@ -1,0 +1,20 @@
+.parent {
+  width: 400px;
+  height: 400px;
+  padding: 30px;
+  background-color: aquamarine;
+}
+
+.child{
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+  background-color: skyblue;
+}
+
+.son{
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  background-color: yellow;
+}
