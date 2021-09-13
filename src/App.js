@@ -1,5 +1,5 @@
 // import React from "react"; //react可以不引入
-import Child from "./03_useContext"
+import Child from "./04_useReducer"
 function App() {
   return (
     <div>
