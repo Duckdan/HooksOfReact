@@ -1,5 +1,5 @@
 // import React from "react"; //react可以不引入
-import Child from "./05_useMemo"
+import Child from "./06_useRef"
 function App() {
   return (
     <div>
