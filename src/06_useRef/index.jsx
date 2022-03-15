@@ -12,7 +12,7 @@ export default function Index() {
     };
     return (
         <>
-            <input  type="text" />
+            <input ref={inputEl} type="text" />
             <button onClick={onButtonClick}>Focus the input</button>
         </>
     );
